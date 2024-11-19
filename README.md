@@ -1,4 +1,4 @@
-NextJs: Eleve o nível da sua documentação no Storybook](thumb.png)
+NextJs: Eleve o nível da sua documentação no Storybook
 
 # Alfabit
 
